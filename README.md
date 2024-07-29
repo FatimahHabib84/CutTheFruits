@@ -1,9 +1,9 @@
 # Cut The Fruits
 
-##Tools and Techniegues
+## Tools and Techniegues
 #### it is game develped using javascript and Phaser.js library
 
-##instructions
+## instructions
 #### 1. Click on start
 #### 2. Score the required score (appears on the top)
 #### 3. Avoid the Bumbs
